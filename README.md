@@ -162,9 +162,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/alberto-janeiro"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67593467?v=44" width="100px;" alt=""/><br /><sub><b>Alberto Janeiro Durán Filho</b></sub></a><br />❤️</td>
-    <td align="center"><a href=""><img border-radius= "50%" src="" width="100px;" alt=""/><br /><sub><b>Alice de Carvalho Plentz</b></sub></a><br />❤️</td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Carla Bianca Nascimento de Araújo</b></sub></a><br />❤️</td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Ezequiel Costa Bomfim</b></sub></a><br />❤️</td>
+    <td align="center"><a href="https://www.linkedin.com/in/alice-plentz-0423471b5/"><img border-radius= "50%" src="https://avatars.githubusercontent.com/u/148882261?v=4" width="100px;" alt=""/><br /><sub><b>Alice de Carvalho Plentz</b></sub></a><br />❤️</td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/189549889?v=4" width="100px;" alt=""/><br /><sub><b>Carla Bianca Nascimento de Araújo</b></sub></a><br />❤️</td>
+    <td align="center"><a href="https://www.linkedin.com/in/ezequiel-bomfim-b59143151/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/44683597?v=4" width="100px;" alt=""/><br /><sub><b>Ezequiel Costa Bomfim</b></sub></a><br />❤️</td>
     <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Willyan Rafael de Freitas</b></sub></a><br />❤️</td>
   </tr>
 </table>
