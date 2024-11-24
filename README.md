@@ -15,7 +15,7 @@ O diagrama de caso de uso, diagrama de classe e a prototipação deve representa
 - Cadastro de Fornecedores
 - Cadastro de Alunos
 
-🎨 O layout do Projeto desenvolvido O Layout está dispovível no [Figma.](https://www.figma.com/").
+🎨 O layout do Projeto desenvolvido O Protótipo está dispovível no [Figma.](https://www.figma.com/proto/tAeMExzTUFX0zjOrCbBei2/Projeto-Integrador-Senac-(entrega-dia-25%2F11)?node-id=10-2514&node-type=canvas&t=fw6vxcIqph1gUvwr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A2529).
 
 ## 🛠 Sistema
 
@@ -110,8 +110,27 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 📱 Prototipação de alta fidelidade:
+### 📲 Tela de Início
+<div style="display: flex;">
+  <img style="width: 50%" src="./assets/tela_logo.png"/>
+  <img style="width: 50%" src="./assets/tela_identificacao.png"/>
+  <img style="width: 50%" src="./assets/tela_login.png"/>
+</div>
 
-![post-v1-tts](./assets/sprints_4-5-6.jpg)
+### 📲 Tela de Cadastro Pessoa Física (Aluno/Professor)
+<div style="display: flex;">
+  <img style="width: 50%" src="./assets/tela_cadastro_pessoa_fisica.png"/>
+  <img style="width: 50%" src="./assets/tela_home_aluno.png"/>
+  <img style="width: 50%" src="./assets/tela_home_professor.png"/>
+</div>
+
+### 📲 Tela de Cadastro Pessoa Jurídica (Professor/Fornecedor)
+<div style="display: flex;">
+  <img style="width: 50%" src="./assets/tela_cadastro_identificacao.png"/>
+  <img style="width: 50%" src="./assets/tela_cadastro_colaborador.png"/>
+  <img style="width: 50%" src="./assets/tela_cadastro_fornecedor.png"/>
+</div>
+
 
 ***
 ## ⏳ Futuro do projeto
