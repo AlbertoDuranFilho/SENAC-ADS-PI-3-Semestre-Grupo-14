@@ -111,24 +111,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📱 Prototipação de alta fidelidade:
 ### 📲 Tela de Início
-<div display="flex">
-  <img width="50%" src="./assets/tela_logo.png"/>
-  <img width="50%" src="./assets/tela_identificacao.png"/>
-  <img width="50%" src="./assets/tela_login.png"/>
+<div style="display: flex;">
+  <img width="200" src="./assets/tela_logo.png"/>
+  <img width="226" src="./assets/tela_identificacao.png"/>
+  <img width="218" src="./assets/tela_login.png"/>
 </div>
 
 ### 📲 Tela de Cadastro Pessoa Física (Aluno/Professor)
 <div style="display: flex;">
-  <img width="50%" src="./assets/tela_cadastro_pessoa_fisica.png"/>
-  <img width="50%" src="./assets/tela_home_aluno.png"/>
-  <img width="50%" src="./assets/tela_home_professor.png"/>
+  <img width="204" src="./assets/tela_cadastro_pessoa_fisica.png"/>
+  <img width="200" src="./assets/tela_home_aluno.png"/>
+  <img width="204" src="./assets/tela_home_professor.png"/>
 </div>
 
 ### 📲 Tela de Cadastro Pessoa Jurídica (Professor/Fornecedor)
 <div style="display: flex;">
-  <img width="50%" src="./assets/tela_cadastro_identificacao.png"/>
-  <img width="50%" src="./assets/tela_cadastro_colaborador.png"/>
-  <img width="50%" src="./assets/tela_cadastro_fornecedor.png"/>
+  <img width="202" src="./assets/tela_cadastro_identificacao.png"/>
+  <img width="205" src="./assets/tela_cadastro_colaborador.png"/>
+  <img width="200" src="./assets/tela_cadastro_fornecedor.png"/>
 </div>
 
 
