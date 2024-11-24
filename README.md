@@ -111,24 +111,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📱 Prototipação de alta fidelidade:
 ### 📲 Tela de Início
-<div style="display: flex;">
-  <img style="width: 50%" src="./assets/tela_logo.png"/>
-  <img style="width: 50%" src="./assets/tela_identificacao.png"/>
-  <img style="width: 50%" src="./assets/tela_login.png"/>
+<div display="flex">
+  <img width="50%" src="./assets/tela_logo.png"/>
+  <img width="50%" src="./assets/tela_identificacao.png"/>
+  <img width="50%" src="./assets/tela_login.png"/>
 </div>
 
 ### 📲 Tela de Cadastro Pessoa Física (Aluno/Professor)
 <div style="display: flex;">
-  <img style="width: 50%" src="./assets/tela_cadastro_pessoa_fisica.png"/>
-  <img style="width: 50%" src="./assets/tela_home_aluno.png"/>
-  <img style="width: 50%" src="./assets/tela_home_professor.png"/>
+  <img width="50%" src="./assets/tela_cadastro_pessoa_fisica.png"/>
+  <img width="50%" src="./assets/tela_home_aluno.png"/>
+  <img width="50%" src="./assets/tela_home_professor.png"/>
 </div>
 
 ### 📲 Tela de Cadastro Pessoa Jurídica (Professor/Fornecedor)
 <div style="display: flex;">
-  <img style="width: 50%" src="./assets/tela_cadastro_identificacao.png"/>
-  <img style="width: 50%" src="./assets/tela_cadastro_colaborador.png"/>
-  <img style="width: 50%" src="./assets/tela_cadastro_fornecedor.png"/>
+  <img width="50%" src="./assets/tela_cadastro_identificacao.png"/>
+  <img width="50%" src="./assets/tela_cadastro_colaborador.png"/>
+  <img width="50%" src="./assets/tela_cadastro_fornecedor.png"/>
 </div>
 
 
@@ -162,7 +162,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/alberto-janeiro"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67593467?v=44" width="100px;" alt=""/><br /><sub><b>Alberto Janeiro Durán Filho</b></sub></a><br />❤️</td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Alice de Carvalho Plentz</b></sub></a><br />❤️</td>
+    <td align="center"><a href=""><img border-radius= "50%" src="" width="100px;" alt=""/><br /><sub><b>Alice de Carvalho Plentz</b></sub></a><br />❤️</td>
     <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Carla Bianca Nascimento de Araújo</b></sub></a><br />❤️</td>
     <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Ezequiel Costa Bomfim</b></sub></a><br />❤️</td>
     <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Willyan Rafael de Freitas</b></sub></a><br />❤️</td>
